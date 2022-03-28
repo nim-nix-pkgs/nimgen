@@ -11,7 +11,6 @@
   inputs.src-nimgen-master.ref   = "refs/heads/master";
   inputs.src-nimgen-master.owner = "genotrance";
   inputs.src-nimgen-master.repo  = "nimgen";
-  inputs.src-nimgen-master.dir   = "";
   inputs.src-nimgen-master.type  = "github";
   
   inputs."c2nim".owner = "nim-nix-pkgs";
