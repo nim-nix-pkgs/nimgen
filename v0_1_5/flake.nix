@@ -11,6 +11,7 @@
   inputs.src-nimgen-v0_1_5.ref   = "refs/tags/v0.1.5";
   inputs.src-nimgen-v0_1_5.owner = "genotrance";
   inputs.src-nimgen-v0_1_5.repo  = "nimgen";
+  inputs.src-nimgen-v0_1_5.dir   = "";
   inputs.src-nimgen-v0_1_5.type  = "github";
   
   inputs."c2nim".owner = "nim-nix-pkgs";
